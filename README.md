@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="./vlogging-cat.png" />
 
 - 🧑‍🎓 Student of Information Technology Education at University of Brawijaya.
 - 🤓 Currently exploring MERN Stack and learning Web3.
