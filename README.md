@@ -7,6 +7,7 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6285736822725)
 [<img src="https://img.shields.io/badge/gmail-%23D7503C.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:graita.sukma@gmail.com)
 
+https://wildanzr.my.id
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
