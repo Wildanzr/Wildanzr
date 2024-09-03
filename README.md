@@ -10,23 +10,24 @@
 
 🌐 https://wildanzr.my.id
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="./vlogging-cat.png" />
 
-- 🧑‍🎓 Student of Information Technology Education at University of Brawijaya.
-- 🤓 Currently exploring MERN Stack and learning Web3.
+- 🧑‍🎓 Graduated in Information Technology Education at the University of Brawijaya.
+- 🤓 Currently exploring MERN Stack, EVM, and Solana environment.
 - 🐈 Cat addict.
-- 📚🎬 Love reading histories, politics, and conspiracy also watching documentaries.
-- ⚡️ Fun-Fact: I didn't smoke or drunk.
+- 📚🎬 Love reading histories, politics, conspiracy, and watching documentaries.
+- ⚡️ Fun-Fact: I didn't smoke, drunk, and night life party.
 
 ### Languages:
 <div display="flex">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </div>
@@ -35,14 +36,11 @@
 
 ### Developments:
 <div display="flex">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
